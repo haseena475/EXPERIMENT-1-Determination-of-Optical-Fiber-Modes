@@ -60,4 +60,16 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+
+<img width="1084" height="320" alt="image" src="https://github.com/user-attachments/assets/0cc280a6-0fef-47d0-a95f-fac12934f530" />
+
+<img width="1060" height="704" alt="image" src="https://github.com/user-attachments/assets/71ef262b-f4f8-40a1-b657-dc13da4e9f88" />
+
+## Marks Splitup
+
+<img width="1012" height="604" alt="image" src="https://github.com/user-attachments/assets/26c4555c-654d-4a90-a543-711d601ef85d" />
+
+
 ## Result
+
+Thus Simulation of Optical Communication is simulate and observed Successfully.
