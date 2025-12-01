@@ -6,7 +6,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ---
 
-## 🧰 EQUIPMENTS REQUIRED
+## 🧰 EQUIPMENTS REQUIRED 
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
